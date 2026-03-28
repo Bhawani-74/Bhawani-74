@@ -22,11 +22,13 @@
 - 📧 Email: bhawanishishodia@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/bhawani23/
 
-  
+---
+
 ## 🚀 Coding Profiles
 
 - 💻 LeetCode: https://leetcode.com/u/Shishodia_22/
 
+---
 
 ## Veilix
 AI-powered system to protect images from misuse.
