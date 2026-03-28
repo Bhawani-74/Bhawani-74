@@ -1,8 +1,21 @@
-## Hi, I'm a Software Developer 🚀  
-Building AI-powered apps & security tools  
+## 👋 Hi, I'm Bhawani Shishodia
 
-⚡ Tech: Python, React, Node.js, AI/ML  
-🔥 Project: Veilix – AI-powered image protection system  
+🚀 Aspiring AI Engineer & Software Developer  
+💡 I build AI-powered applications and full-stack web solutions  
+📈 Currently improving DSA & system design for top tech roles  
+
+---
+
+## 🧠 Tech Stack
+
+💻 Languages: C++, Python, JavaScript  
+🌐 Frontend: HTML, CSS, React.js  
+⚙️ Backend: Node.js, Express.js  
+🗄️ Database: MongoDB, MySQL  
+🤖 AI/ML: NumPy, Pandas, OpenCV, TensorFlow (Learning)  
+🛠️ Tools: Git, GitHub, VS Code  
+
+---
 
 ## 📫 Connect with Me
 
