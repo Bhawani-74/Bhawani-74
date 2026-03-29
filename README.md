@@ -30,13 +30,21 @@
 
 ---
 
-## Veilix
-AI-powered system to protect images from misuse.
+## 🔐 Veilix – AI-Based Digital Privacy Protection System
 
-### Tech Stack
-Python, OpenCV, React, Node.js
+Veilix is an AI-powered application designed to protect users from digital privacy threats by detecting and securing sensitive visual content. It leverages computer vision techniques to identify faces or private elements in images and applies protection mechanisms to prevent misuse.
 
-### Features
-- Face detection
-- Image protection
-- Secure upload
+🚀 Key Features:
+- 🧠 Face detection using OpenCV-based models  
+- 🔒 Automatic protection (blur/mask) of sensitive regions  
+- 🖼️ Image upload and processing system  
+- ⚡ Real-time detection capability (extendable)  
+
+🛠️ Tech Stack:
+- Python  
+- OpenCV  
+- NumPy  
+- (Optional: Flask / Node.js for backend integration)
+
+💡 Purpose:
+To build a smart AI system that helps prevent misuse of personal images and enhances digital safety in an increasingly online world.
