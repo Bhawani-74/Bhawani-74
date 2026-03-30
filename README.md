@@ -27,6 +27,8 @@
 ## 🚀 Coding Profiles
 
 - 💻 LeetCode: https://leetcode.com/u/Shishodia_22/
+- Arrays
+- String
 
 ---
 
