@@ -27,11 +27,10 @@
 ## 🚀 Coding Profiles
 
 - 💻 LeetCode: https://leetcode.com/u/Shishodia_22/
-- Arrays
-- String
 
 ---
-
+Project 
+---
 ## 🔐 Veilix – AI-Based Digital Privacy Protection System
 
 Veilix is an AI-powered application designed to protect users from digital privacy threats by detecting and securing sensitive visual content. It leverages computer vision techniques to identify faces or private elements in images and applies protection mechanisms to prevent misuse.
