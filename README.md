@@ -44,8 +44,8 @@ Veilix is an AI-powered application designed to protect users from digital priva
 🛠️ Tech Stack:
 - Python  
 - OpenCV  
-- NumPy  
-- (Optional: Flask / Node.js for backend integration)
+- NumPy
+- Flask / Node.js for backend integration
 
 💡 Purpose:
 To build a smart AI system that helps prevent misuse of personal images and enhances digital safety in an increasingly online world.
